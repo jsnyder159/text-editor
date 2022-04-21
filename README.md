@@ -29,6 +29,7 @@
   
   
   ## Screenshots
+  [Live App](https://text-editor-jw.herokuapp.com/)
 ![Working](./public/assets/it-works.PNG)
 
 
